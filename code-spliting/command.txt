@@ -1,0 +1,9 @@
+npm init -y
+npm i webpack webpack-cli css-loader style-loader mini-css-extract-plugin -D
+create index.html
+create base.css
+create index.js
+create webpack.config.js
+package.json -> add script "build" : webpack
+npm run build
+index.html -> live server
